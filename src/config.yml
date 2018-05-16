@@ -1,0 +1,23 @@
+etc_path:
+    path: /etc
+    permissions: '0777'
+    owner: root
+    group: root
+bin_path:
+    path: /bin
+    permissions: '0777'
+    owner: root
+    group: root    
+sbin_path:
+    path: /sbin
+    permissions: '0666'
+    owner: nobody
+    group: nobody  
+usr_path:
+    path: /usr
+    permissions: '0777'
+    owner: root
+var_path:
+    path: /var
+    permissions: '0777'
+          

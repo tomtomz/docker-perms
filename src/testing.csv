@@ -1,0 +1,6 @@
+/mnt/test,777,root,
+/mnt/test2,777,noone
+/etc, 777, root, root
+/bin, 777, root
+/usr, 777,, root
+/var, 666,nobody, nobody
