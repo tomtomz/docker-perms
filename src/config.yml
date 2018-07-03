@@ -1,3 +1,8 @@
+public_mnt:
+    path: /mnt/public
+    permissions: '0777'
+    owner: root
+    group: root
 etc_path:
     path: /etc
     permissions: '0777'
